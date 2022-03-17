@@ -15,7 +15,7 @@ var rollbar = new Rollbar({
 })
 
 // record a generic message and send it to Rollbar
-rollbar.log('Hello world!')
+rollbar.log('Hello Arthur!')
 
 const students = ['Jimmy', 'Timothy', 'Jimothy']
 
